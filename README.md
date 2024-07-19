@@ -13,10 +13,6 @@ Create a React application to upload an image and text, analyze the image using 
 ## Installation
 
 1. **Clone the repository:**
-    ```bash
-    git clone <repository_url>
-    cd <repository_name>/frontend
-    ```
 
 2. **Install dependencies:**
     ```bash
