@@ -69,7 +69,7 @@ function Ocr() {
 
     // Post the analysis result to the backend
     axios
-      .post("http://localhost:5000/api/analyze", {
+      .post(`${process.env.REACT_APP_API_URL}/api/analyze`, {
         extractedText: extracted,
         userInputText: userInput,
         analysis: analysisText,
