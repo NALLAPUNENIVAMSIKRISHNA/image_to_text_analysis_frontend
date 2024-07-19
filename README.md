@@ -1,5 +1,7 @@
 ### README for Frontend
 
+## Live link - https://image-to-text-analysis-frontend.vercel.app/
+
 # Chat Bot for Image and Text Analysis - Frontend
 
 ## Objective
@@ -39,3 +41,5 @@ Create a React application to upload an image and text, analyze the image using 
 
 ### `Analysis.js`
 - Displays extracted text and analysis results.
+
+## Deployed frontend part on vercel by adding env variables and also by keeping the backend api url in .env file 
